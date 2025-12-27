@@ -5,6 +5,7 @@ Transform any YouTube video into a stunning, SEO-optimized infographic blog post
 ![YouTube to Blog Generator](https://img.shields.io/badge/Powered%20by-Gemini%202.5%2F3-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-16+-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MusfiqurTuhin/youtube-blog-generator)
 
 ## 🎯 Features
 
@@ -72,6 +73,23 @@ This application supports multiple Gemini models with different capabilities:
 4. **Click Generate**: Wait for the AI to process the video
 4. **Preview**: Scroll through the beautiful infographic blog
 5. **Export**: Download or copy the self-contained HTML
+
+## 🚀 Deploy to Vercel
+
+### One-Click Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MusfiqurTuhin/youtube-blog-generator)
+
+### Manual Deployment
+
+1. Push your code to GitHub (already done!)
+2. Go to [vercel.com](https://vercel.com) and sign in
+3. Click "Add New Project"
+4. Import `youtube-blog-generator` repository
+5. Click "Deploy" (no configuration needed!)
+6. Your app will be live in ~2 minutes
+
+**Detailed deployment guide**: See [DEPLOYMENT.md](DEPLOYMENT.md)
 
 ## 📁 Project Structure
 
